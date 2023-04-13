@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668163977031",
+    "project_id": "authtutorial-cd648",
+    "storage_bucket": "authtutorial-cd648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668163977031:android:2fd01f52a77fbbd1c2a662",
+        "android_client_info": {
+          "package_name": "com.example.modernauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668163977031-afntodv86400frmcg6itsmo6aglku1l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCly8zu-VAqU_Iw3Tdtogsr0lH5KXJ61eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668163977031-afntodv86400frmcg6itsmo6aglku1l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
